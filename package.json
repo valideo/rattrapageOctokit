@@ -1,0 +1,20 @@
+{
+  "name": "projet_octokit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentin Brédy",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^15.9.2",
+    "commander": "^2.15.1",
+    "csv": "^3.1.0",
+    "csv-generate": "^2.0.2",
+    "csv-writer": "^1.0.0",
+    "flatten-array": "^1.0.0",
+    "octokit": "^1.0.0-hello-world"
+  }
+}
